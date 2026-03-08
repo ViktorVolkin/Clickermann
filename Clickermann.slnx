@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Clickermann.vcxproj" Id="16f0e7d9-5880-4e8a-a384-6a76e4a408da" />
+</Solution>
